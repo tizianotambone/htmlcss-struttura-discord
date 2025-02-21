@@ -72,8 +72,25 @@
 .green{
     background-color: green;
 }
+.rettangolo{
+    height: 300px;
+    width: 20%;
+    border: 2px dashed black;
 
+}
    
+.rettangolo2{
+    height: 300px;
+    width: 10%;
+    border: 2px dashed white;
+
+}
+.bglblue{
+    background-color: rgb(92, 199, 235);
+}
+.bgdark{
+    background-color: rgb(69, 65, 65);
+}
 
 
 
